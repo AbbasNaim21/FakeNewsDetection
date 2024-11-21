@@ -9,5 +9,3 @@ Fake news detection is increasingly important in today's digital age, where misi
 - Pre-processed Kaggle dataset labeled as `0` (fake) and `1` (real).  
 - Logistic Regression model for text classification.  
 - Deployment of the model via Streamlit for easy interaction.  
-
-## 📂 Project Structure  
